@@ -1,0 +1,3 @@
+funcional que hace, no funcional como lo hace
+
+comportamiento del sistema: funcional

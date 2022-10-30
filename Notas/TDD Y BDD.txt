@@ -1,0 +1,17 @@
+Desarrollo guiado por pruebas (TDD)
+El desarrollo guiado por pruebas es una forma de desarrollar software donde se desarrollan los casos de prueba, 
+generalmente automatizados, antes de que se desarrolle el software para ejecutar esos casos de prueba.
+
+El desarrollo guiado por pruebas es altamente iterativo y se basa en ciclos de desarrollo de casos de prueba 
+automatizados, luego se construyen e integran pequeños fragmentos de código, a continuación, se ejecuta la prueba de componente, 
+se corrige cualquier cuestión y se refactoriza el código. 
+
+Este proceso continúa hasta que el componente ha sido completamente construido y ha pasado toda la prueba de componente.
+
+Behavior Driven Development BDD
+
+es un enfoque de equipo que hace hincapié en por qué debes escribir ese código y cómo se debería comportar.
+Cada requisitos debe convertirse en historias de usuario, defiendo ejemplos concretos.
+Cada ejemplo debe ser un escenario de un usuario en el sistema.
+Ser consciente de la necesidad de definir "la especificación del comportamiento de un usuario" en lugar de "la prueba unitaria de una clase".
+Comprender la fórmula ‘Given-When-Then’ u otras como las historias de usuario ‘Role-Feature-Reason'. Veamos que tratan estas fórmulas.
